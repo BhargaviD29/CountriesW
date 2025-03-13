@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Countries
-//
-//  Created by DEEPTHI on 8/10/23.
-//
-
 import UIKit
 
 @main

@@ -1,10 +1,3 @@
-//
-//  CountryTableViewCell.swift
-//  Country
-//
-//  Created by Vrushik Reddy on 2/27/25.
-//
-
 import UIKit
 
 class CountryTableViewCell: UITableViewCell {
